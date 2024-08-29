@@ -1,2 +1,2 @@
 # Delta-Demo
-It is knowing about Git and GitHub classes
+It is knowing about Git and GitHub classes in GitHub
